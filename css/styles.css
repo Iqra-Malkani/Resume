@@ -1,6 +1,17 @@
 body{
   background-color:#fff5c0;
 }
+
+.logo{
+margin-left: 25%;
+}
+
+.data{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+}
+
 hr {
   border-style:none;
   border-top-style: dotted;
@@ -37,5 +48,5 @@ p3:hover{
   font-family: "lucida calligraphy";
   color: #41584b;
   background-color:yellow ;
-  
+
 }
