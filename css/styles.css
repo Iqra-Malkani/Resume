@@ -1,0 +1,41 @@
+body{
+  background-color:#fff5c0;
+}
+hr {
+  border-style:none;
+  border-top-style: dotted;
+  border-color: #aa8976;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+  font-family:"Vivaldi";
+  font-size: 70px;
+color: #41584b;
+
+}
+
+h2{
+  color: #d68060;
+  font-family: "elephant";
+}
+
+p1{
+  font-size:17px;
+  font-family: "lucida calligraphy";
+  color: #41584b;
+}
+
+p2{
+  font-size:17px;
+  font-family: "lucida calligraphy";
+  color: #41584b;
+}
+p3:hover{
+  font-size:17px;
+  font-family: "lucida calligraphy";
+  color: #41584b;
+  background-color:yellow ;
+  
+}
